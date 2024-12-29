@@ -43,5 +43,5 @@ app.use("", require("./routes/routes"));
 
 
 app.listen(PORT, ()=>{
-    console.log('statred server at http://localhost:${PORT}');
+    console.log('statred server at http://localhost:5000');
 })
